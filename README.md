@@ -3,5 +3,8 @@
 - 🌱 I’m currently learning about modern web design principles and UX/UI best practices.
 - 💞️ I’m looking to collaborate on web development projects that focus on creating intuitive and engaging user experiences.
 - 📫 How to reach me: You can reach me via email at [avichintu123@gmail](mailto:avichintu123@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/p-avinash-979567218/).
+- 💻 Check out my coding profiles:
+- [HackerRank](https://www.hackerrank.com/profile/avichintu123) - Avinash P (5-star in Python)
+- [LeetCode](https://leetcode.com/u/LuckyAvi_001/) - Avinash P
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love experimenting with new CSS animations and enjoy optimizing website performance.
